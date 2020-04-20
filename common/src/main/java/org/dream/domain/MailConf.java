@@ -5,6 +5,7 @@ import lombok.Setter;
 
 /**
  * 邮件的发送账户配置信息
+ * @author wwc
  */
 @Getter
 @Setter

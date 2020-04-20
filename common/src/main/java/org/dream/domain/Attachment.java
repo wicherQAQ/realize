@@ -9,8 +9,7 @@ import java.util.List;
 
 /**
  * 附件
- *
- * @author wicher
+ * @@author wwc
  */
 @Getter
 @Setter

@@ -1,5 +1,9 @@
 package org.dream.exception;
 
+/**
+ * 视频处理异常类
+ * @author wwc
+ */
 public class VideoMeasureException extends Exception{
 
     //关于默认空参构造方法的注意事项：

@@ -11,7 +11,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author wuweichao
+ * 视频处理类
+ * @author wwc
  */
 public class VideoUtil {
 
